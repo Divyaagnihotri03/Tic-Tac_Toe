@@ -15,6 +15,7 @@
 📱 Works across different screen sizes
 
 🛠️ Technologies Used
+
 HTML: To structure the layout of the game board
 
 CSS: For styling the grid, buttons, and overall layout
